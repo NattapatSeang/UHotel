@@ -1,0 +1,610 @@
+/*
+	@name complete
+*/
+/* Only edit this if you know what you are doing! */
+body { margin: 0px; padding: 0px; font-family:"Arial"; /*overflow-x:hidden;*/ }
+
+/* Only edit this if you know what you are doing! */
+img { position: absolute; display: block; margin: 0px; border: none; padding: 0px; }
+
+/* Only edit this if you know what you are doing! */
+div { position: absolute; }
+
+#content-container { display: table; position: relative; width: 1024px; height: 954px; margin-left: auto; margin-right: auto;  }
+
+#_bg__complete {
+	top: 0px;
+	left: 0px;
+	width: 1024px;
+	height: 954px;
+	background:rgba(255,255,255,255);
+}
+
+#footer {
+	top: 759px;
+	left: 0px;
+	width: 1035px;
+	height: 198px;
+}
+
+#footer_ek1 {
+	top: 0px;
+	left: 2px;
+	width: 1024px;
+	height: 150px;
+	background:rgba(255,255,255,255);
+}
+
+
+#logo {
+	top: 17px;
+	left: 0px;
+	width: 136px;
+	height: 125px;
+}
+
+
+#path_1 {
+	top: 11px;
+	left: 23px;
+	width: 974px;
+	height: 1px;
+}
+
+
+#__p__contact_us__mail__433_132_someroad_rd___10999_bankok__thailand_email__uhotel_reservation_abc_com_tel___66__0__2_231_4421 {
+	top: 21px;
+	left: 136px;
+	width: 340px;
+	height: 176.5px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 17px;
+	text-align: left;
+	line-height: 17px;
+	color:#666666;
+}
+
+
+#__p__follow_us {
+	top: 21px;
+	left: 504px;
+	width: 340px;
+	height: 176.5px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 17px;
+	text-align: left;
+	line-height: 17px;
+	color:#666666;
+}
+
+
+#__p__subscribe {
+	top: 21px;
+	left: 695px;
+	width: 340px;
+	height: 176.5px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 17px;
+	text-align: left;
+	line-height: 17px;
+	color:#666666;
+}
+
+
+#facebook {
+	top: 79px;
+	left: 507px;
+	width: 28px;
+	height: 28px;
+}
+
+
+#facebook_ek1 {
+	top: 77px;
+	left: 607px;
+	width: 31px;
+	height: 31px;
+}
+
+
+#facebook_ek2 {
+	top: 69px;
+	left: 566px;
+	width: 46px;
+	height: 46px;
+}
+
+
+#facebook_ek3 {
+	top: 79px;
+	left: 540px;
+	width: 29px;
+	height: 29px;
+}
+
+
+#path_2 {
+	top: 104px;
+	left: 647px;
+	width: 0px;
+	height: 0px;
+}
+
+
+#rectangle_1 {
+	top: 72px;
+	left: 695px;
+	width: 299px;
+	height: 38px;
+	-ms-border-radius: 6px;
+	-o-border-radius: 6px;
+	-moz-border-radius: 6px;
+	-webkit-border-radius: 6px;
+	border-radius: 6px;
+	border: 1px solid #aeaeae;
+	background:rgba(255,255,255,255);
+}
+
+
+#__p__enter_your_email {
+	top: 80px;
+	left: 709px;
+	width: 253px;
+	height: 27.5px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 13px;
+	text-align: left;
+	line-height: 13px;
+	color:#aeaeae;
+}
+
+#group_362 {
+	top: 245px;
+	left: 156px;
+	width: 405px;
+	height: 76px;
+}
+
+#successfully_payment {
+	top: -9px;
+	left: 0px;
+	width: 410px;
+	height: 58px;
+	font-family: Poppins;
+	font-size: 36px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#rectangle_13 {
+	top: 60px;
+	left: 0px;
+	width: 95px;
+	height: 16px;
+	-ms-box-shadow:0px 3px 5px 1px rgba(0,0,0,0.41);
+	-o-box-shadow:0px 3px 5px 1px rgba(0,0,0,0.41);
+	-webkit-box-shadow:0px 3px 5px 1px rgba(0,0,0,0.41);
+	-moz-box-shadow:0px 3px 5px 1px rgba(0,0,0,0.41);
+	box-shadow:0px 3px 5px 1px rgba(0,0,0,0.41);
+	background:rgba(0,0,0,255);
+}
+
+#repeat_grid_1 {
+	top: 99px;
+	left: 0px;
+	width: 1024px;
+	height: 71px;
+	overflow:hidden;
+}
+
+#fa94a5d7235d1c883a1adea1e3f7dd5e {
+	top: -99px;
+	left: 0px;
+	width: 1024px;
+	height: 353px;
+}
+
+
+#rectangle_1106 {
+	top: 75px;
+	left: 0px;
+	width: 1024px;
+	height: 24px;
+	background:rgba(0,0,0,255);
+}
+
+
+#enjoy_free_breakfast_at_uhotel_between_23_28_of_december__happy_holidays_ {
+	top: 76px;
+	left: 280px;
+	width: 465px;
+	height: 19px;
+	font-family: Poppins;
+	font-size: 12px;
+	text-align: center;
+	color:#ffffff;
+}
+
+#group_363 {
+	top: 153px;
+	left: 166px;
+	width: 692px;
+	height: 62px;
+}
+
+#rectangle_1136 {
+	top: 0px;
+	left: 0px;
+	width: 173px;
+	height: 62px;
+	-ms-box-shadow:0px 3px 5px 1px rgba(0,0,0,0.41);
+	-o-box-shadow:0px 3px 5px 1px rgba(0,0,0,0.41);
+	-webkit-box-shadow:0px 3px 5px 1px rgba(0,0,0,0.41);
+	-moz-box-shadow:0px 3px 5px 1px rgba(0,0,0,0.41);
+	box-shadow:0px 3px 5px 1px rgba(0,0,0,0.41);
+	background:rgba(0,0,0,255);
+}
+
+
+#icon_ionic_md_checkmark {
+	top: 19px;
+	left: 18px;
+	width: 26.09814453125px;
+	height: 19.845458984375px;
+}
+
+
+#rectangle_1137 {
+	top: 0px;
+	left: 173px;
+	width: 173px;
+	height: 62px;
+	-ms-box-shadow:0px 3px 5px 1px rgba(0,0,0,0.41);
+	-o-box-shadow:0px 3px 5px 1px rgba(0,0,0,0.41);
+	-webkit-box-shadow:0px 3px 5px 1px rgba(0,0,0,0.41);
+	-moz-box-shadow:0px 3px 5px 1px rgba(0,0,0,0.41);
+	box-shadow:0px 3px 5px 1px rgba(0,0,0,0.41);
+	background:rgba(0,0,0,255);
+}
+
+
+#icon_ionic_md_checkmark_ek1 {
+	top: 19px;
+	left: 191px;
+	width: 26.09814453125px;
+	height: 19.845458984375px;
+}
+
+
+#rectangle_1138 {
+	top: 0px;
+	left: 346px;
+	width: 173px;
+	height: 62px;
+	-ms-box-shadow:0px 3px 5px 1px rgba(0,0,0,0.41);
+	-o-box-shadow:0px 3px 5px 1px rgba(0,0,0,0.41);
+	-webkit-box-shadow:0px 3px 5px 1px rgba(0,0,0,0.41);
+	-moz-box-shadow:0px 3px 5px 1px rgba(0,0,0,0.41);
+	box-shadow:0px 3px 5px 1px rgba(0,0,0,0.41);
+	background:rgba(0,0,0,255);
+}
+
+
+#icon_ionic_md_checkmark_ek2 {
+	top: 19px;
+	left: 364px;
+	width: 26.09814453125px;
+	height: 19.845458984375px;
+}
+
+
+#rectangle_1139 {
+	top: 0px;
+	left: 519px;
+	width: 173px;
+	height: 62px;
+	-ms-box-shadow:0px 3px 5px 1px rgba(0,0,0,0.41);
+	-o-box-shadow:0px 3px 5px 1px rgba(0,0,0,0.41);
+	-webkit-box-shadow:0px 3px 5px 1px rgba(0,0,0,0.41);
+	-moz-box-shadow:0px 3px 5px 1px rgba(0,0,0,0.41);
+	box-shadow:0px 3px 5px 1px rgba(0,0,0,0.41);
+	background:rgba(0,0,0,255);
+}
+
+
+#icon_ionic_md_checkmark_ek3 {
+	top: 19px;
+	left: 537px;
+	width: 26.09814453125px;
+	height: 19.845458984375px;
+}
+
+
+#your_stay {
+	top: 34px;
+	left: 95px;
+	width: 67px;
+	height: 22px;
+	font-family: Poppins;
+	font-size: 13px;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#your_room {
+	top: 34px;
+	left: 268px;
+	width: 74px;
+	height: 22px;
+	font-family: Poppins;
+	font-size: 13px;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#your_detail {
+	top: 34px;
+	left: 441px;
+	width: 76px;
+	height: 22px;
+	font-family: Poppins;
+	font-size: 13px;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#payment {
+	top: 34px;
+	left: 614px;
+	width: 65px;
+	height: 22px;
+	font-family: Poppins;
+	font-size: 13px;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#icon_ionic_ios_arrow_back {
+	top: 148px;
+	left: 43px;
+	width: 25px;
+	height: 44px;
+}
+
+
+#path_46 {
+	top: 50px;
+	left: 134px;
+	width: 18px;
+	height: 2.5px;
+}
+
+
+#path_42 {
+	top: -2px;
+	left: 0px;
+	width: 1024px;
+	height: 78px;
+}
+
+
+#logo_ek1 {
+	top: 8px;
+	left: 36px;
+	width: 63px;
+	height: 58px;
+}
+
+
+#__p__about {
+	top: 24px;
+	left: 134px;
+	width: 99px;
+	height: 28px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 14px;
+	text-align: left;
+	line-height: 14px;
+	color:#ffffff;
+}
+
+
+#__p__services {
+	top: 24px;
+	left: 202px;
+	width: 99px;
+	height: 40px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 14px;
+	text-align: left;
+	line-height: 14px;
+	color:#ffffff;
+}
+
+
+#__p__events {
+	top: 24px;
+	left: 293px;
+	width: 99px;
+	height: 40px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 14px;
+	text-align: left;
+	line-height: 14px;
+	color:#ffffff;
+}
+
+
+#__p__offers {
+	top: 24px;
+	left: 370px;
+	width: 99px;
+	height: 40px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 14px;
+	text-align: left;
+	line-height: 14px;
+	color:#ffffff;
+}
+
+
+#__p__reviews {
+	top: 24px;
+	left: 430px;
+	width: 80px;
+	height: 40px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 14px;
+	text-align: center;
+	line-height: 14px;
+	color:#ffffff;
+}
+
+
+#__p__gallery {
+	top: 24px;
+	left: 515px;
+	width: 72px;
+	height: 40px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 14px;
+	text-align: center;
+	line-height: 14px;
+	color:#ffffff;
+}
+
+#group_449 {
+	top: 11px;
+	left: 700px;
+	width: 307.33325195312px;
+	height: 52px;
+}
+
+#rectangle_1102 {
+	top: 9px;
+	left: 0px;
+	width: 152px;
+	height: 33px;
+	-ms-box-shadow:0px 3px 5px 1px rgba(0,0,0,0.41);
+	-o-box-shadow:0px 3px 5px 1px rgba(0,0,0,0.41);
+	-webkit-box-shadow:0px 3px 5px 1px rgba(0,0,0,0.41);
+	-moz-box-shadow:0px 3px 5px 1px rgba(0,0,0,0.41);
+	box-shadow:0px 3px 5px 1px rgba(0,0,0,0.41);
+	background:rgba(191,159,104,255);
+}
+
+
+#book_now {
+	top: 13px;
+	left: 38px;
+	width: 77px;
+	height: 22px;
+	font-family: Poppins;
+	font-size: 13px;
+	text-align: center;
+	color:#ffffff;
+}
+
+
+#ellipse_9 {
+	top: 1px;
+	left: 170px;
+	width: 48px;
+	height: 48px;
+	-ms-border-radius: 25px / 25px;
+	-o-border-radius: 25px / 25px;
+	-moz-border-radius: 25px / 25px;
+	-webkit-border-radius: 25px / 25px;
+	border-radius: 25px / 25px;
+	border: 1px solid #707070;
+	-ms-box-shadow:0px 3px 5px 1px rgba(0,0,0,0.41);
+	-o-box-shadow:0px 3px 5px 1px rgba(0,0,0,0.41);
+	-webkit-box-shadow:0px 3px 5px 1px rgba(0,0,0,0.41);
+	-moz-box-shadow:0px 3px 5px 1px rgba(0,0,0,0.41);
+	box-shadow:0px 3px 5px 1px rgba(0,0,0,0.41);
+	background:rgba(239,240,240,255);
+}
+
+
+#m {
+	top: 3px;
+	left: 184px;
+	width: 27px;
+	height: 40px;
+	font-family: Poppins;
+	font-size: 25px;
+	text-align: left;
+	color:#bfa068;
+}
+
+
+#mook_c_ {
+	top: 12px;
+	left: 231px;
+	width: 60px;
+	height: 23px;
+	font-family: Poppins;
+	font-size: 14px;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#icon_material_arrow_drop_down {
+	top: 23px;
+	left: 294px;
+	width: 13px;
+	height: 7px;
+}
+
+
+#rectangle_1154 {
+	top: 0px;
+	left: 162px;
+	width: 0.5px;
+	height: 52px;
+	background:rgba(238,238,238,255);
+}
+
+
+#thank_you_for_your_reservation_ {
+	top: 418px;
+	left: 312px;
+	width: 397px;
+	height: 40px;
+	font-family: Poppins;
+	font-size: 25px;
+	text-align: center;
+	color:#bfa068;
+}
+
+
+#we_already_sent_your_reservation_details_to_your_email_ {
+	top: 492px;
+	left: 234px;
+	width: 555px;
+	height: 32px;
+	font-family: Poppins;
+	font-size: 20px;
+	text-align: center;
+	color:#807f7e;
+}
+
+
+
+/* Add your custom CSS here */
