@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Generation Time: Nov 29, 2019 at 05:28 PM
+-- Generation Time: Nov 29, 2019 at 05:39 PM
 -- Server version: 10.1.37-MariaDB
 -- PHP Version: 7.3.1
 
@@ -21,6 +21,22 @@ SET time_zone = "+00:00";
 --
 -- Database: `uhoteldb`
 --
+
+-- --------------------------------------------------------
+
+--
+-- Table structure for table `abouthotel`
+--
+
+CREATE TABLE `abouthotel` (
+  `popularity` text COLLATE utf8_unicode_ci NOT NULL,
+  `slogan` varchar(64) COLLATE utf8_unicode_ci NOT NULL,
+  `location` text COLLATE utf8_unicode_ci NOT NULL,
+  `address` text COLLATE utf8_unicode_ci NOT NULL,
+  `pictureID` int(11) NOT NULL,
+  `email` text COLLATE utf8_unicode_ci NOT NULL,
+  `telephone` text COLLATE utf8_unicode_ci NOT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;
 
 -- --------------------------------------------------------
 
@@ -224,6 +240,13 @@ CREATE TABLE `user` (
 --
 
 --
+-- Indexes for table `abouthotel`
+--
+ALTER TABLE `abouthotel`
+  ADD PRIMARY KEY (`slogan`),
+  ADD KEY `pictureID` (`pictureID`);
+
+--
 -- Indexes for table `category`
 --
 ALTER TABLE `category`
@@ -362,6 +385,12 @@ ALTER TABLE `user`
 --
 -- Constraints for dumped tables
 --
+
+--
+-- Constraints for table `abouthotel`
+--
+ALTER TABLE `abouthotel`
+  ADD CONSTRAINT `abouthotel_ibfk_1` FOREIGN KEY (`pictureID`) REFERENCES `picturegallery` (`pictureID`);
 
 --
 -- Constraints for table `event`
