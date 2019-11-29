@@ -335,7 +335,7 @@ div { position: absolute; }
 
 #rectangle_24 {
 	opacity:0.6;
-	top: 3px;
+	top: 23px;
 	left: 0px;
 	width: 250px;
 	height: 300px;
@@ -344,9 +344,9 @@ div { position: absolute; }
 
 
 #careers {
-	top: -11px;
+	top: 40px;
 	left: 9px;
-	width: 169px;
+	width: 168px;
 	height: 83px;
 	overflow: hidden;
 	font-family: Poppins;
@@ -358,14 +358,14 @@ div { position: absolute; }
 
 
 #what_we_offer {
-	top: 64px;
+	top: 99px;
 	left: 33px;
-	width: 160px;
+	width: 157px;
 	height: 49px;
 	overflow: hidden;
 	font-family: Poppins;
-	font-size: 22px;
 	text-decoration: underline;
+	font-size: 22px;
 	text-align: left;
 	line-height: 22px;
 	color:#ffffff;
@@ -373,9 +373,9 @@ div { position: absolute; }
 
 
 #positions {
-	top: 205px;
+	top: 240px;
 	left: 33px;
-	width: 99px;
+	width: 107px;
 	height: 49px;
 	overflow: hidden;
 	font-family: Poppins;
@@ -387,9 +387,9 @@ div { position: absolute; }
 
 
 #become_our_family {
-	top: 247px;
+	top: 279px;
 	left: 33px;
-	width: 211px;
+	width: 210px;
 	height: 49px;
 	overflow: hidden;
 	font-family: Poppins;
@@ -401,9 +401,9 @@ div { position: absolute; }
 
 
 #benefits {
-	top: 105px;
+	top: 137px;
 	left: 58px;
-	width: 55px;
+	width: 63px;
 	height: 31px;
 	overflow: hidden;
 	font-family: Poppins;
@@ -415,9 +415,9 @@ div { position: absolute; }
 
 
 #learning___development {
-	top: 137px;
+	top: 169px;
 	left: 58px;
-	width: 175px;
+	width: 174px;
 	height: 31px;
 	overflow: hidden;
 	font-family: Poppins;
@@ -429,9 +429,9 @@ div { position: absolute; }
 
 
 #graduate_opportunities {
-	top: 171px;
+	top: 203px;
 	left: 58px;
-	width: 168px;
+	width: 167px;
 	height: 31px;
 	overflow: hidden;
 	font-family: Poppins;
@@ -440,6 +440,7 @@ div { position: absolute; }
 	line-height: 14px;
 	color:#dadada;
 }
+
 
 #what_we_offer_ek1 {
 	top: 569px;
