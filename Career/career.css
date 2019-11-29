@@ -1,0 +1,886 @@
+/*
+	@name career
+*/
+/* Only edit this if you know what you are doing! */
+body { margin: 0px; padding: 0px; font-family:"Arial"; /*overflow-x:hidden;*/ }
+
+/* Only edit this if you know what you are doing! */
+img { position: absolute; display: block; margin: 0px; border: none; padding: 0px; }
+
+/* Only edit this if you know what you are doing! */
+div { position: absolute; }
+
+#content-container { display: table; position: relative; width: 1024px; height: 1637px; margin-left: auto; margin-right: auto;  }
+
+#_bg__career {
+	top: 0px;
+	left: 0px;
+	width: 1024px;
+	height: 1637px;
+	background:rgba(255,255,255,255);
+}
+
+#footer {
+	top: 1482px;
+	left: 0px;
+	width: 1026px;
+	height: 198px;
+}
+
+#footer_ek1 {
+	top: 0px;
+	left: 2px;
+	width: 1024px;
+	height: 150px;
+	background:rgba(255,255,255,255);
+}
+
+
+#logo {
+	top: 17px;
+	left: 0px;
+	width: 136px;
+	height: 125px;
+}
+
+
+#path_1 {
+	top: 11px;
+	left: 23px;
+	width: 974px;
+	height: 1px;
+}
+
+
+#contact_us__mail__433_132_someroad_rd___10999_bankok__thailand_email__uhotel_reservation_abc_com_tel___66__0__2_231_4421 {
+	top: 21px;
+	left: 136px;
+	width: 340px;
+	height: 176.5px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 17px;
+	text-align: left;
+	line-height: 17px;
+	color:#666666;
+}
+
+
+#follow_us {
+	top: 21px;
+	left: 504px;
+	width: 340px;
+	height: 176.5px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 17px;
+	text-align: left;
+	line-height: 17px;
+	color:#666666;
+}
+
+
+#subscribe {
+	top: 21px;
+	left: 682px;
+	width: 340px;
+	height: 176.5px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 17px;
+	text-align: left;
+	line-height: 17px;
+	color:#666666;
+}
+
+
+#facebook {
+	top: 79px;
+	left: 507px;
+	width: 28px;
+	height: 28px;
+}
+
+
+#facebook_ek1 {
+	top: 77px;
+	left: 607px;
+	width: 31px;
+	height: 31px;
+}
+
+
+#facebook_ek2 {
+	top: 69px;
+	left: 566px;
+	width: 46px;
+	height: 46px;
+}
+
+
+#facebook_ek3 {
+	top: 79px;
+	left: 540px;
+	width: 29px;
+	height: 29px;
+}
+
+
+#path_2 {
+	top: 104px;
+	left: 647px;
+	width: 0px;
+	height: 0px;
+}
+
+
+#rectangle_1 {
+	top: 72px;
+	left: 682px;
+	width: 299px;
+	height: 38px;
+	-ms-border-radius: 6px;
+	-o-border-radius: 6px;
+	-moz-border-radius: 6px;
+	-webkit-border-radius: 6px;
+	border-radius: 6px;
+	border: 1px solid #aeaeae;
+	background:rgba(255,255,255,255);
+}
+
+
+#enter_your_email {
+	top: 80px;
+	left: 696px;
+	width: 253px;
+	height: 27.5px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 13px;
+	text-align: left;
+	line-height: 13px;
+	color:#aeaeae;
+}
+
+
+#munich_2016_hotel_lobby_concierge_01 {
+	top: 67px;
+	left: 0px;
+	width: 1024px;
+	height: 448px;
+}
+
+#search_box {
+	top: 118px;
+	left: 707px;
+	width: 268px;
+	height: 355px;
+}
+
+#search_box_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 268px;
+	height: 355px;
+	background:rgba(67,67,67,255);
+}
+
+
+#rectangle_2 {
+	top: 8px;
+	left: 8px;
+	width: 250px;
+	height: 337px;
+	border: 1px solid #d9b645;
+	background:rgba(255,255,255,0);
+}
+
+
+#logo_ek1 {
+	top: 11px;
+	left: 54px;
+	width: 160px;
+	height: 147px;
+}
+
+
+#rectangle_3 {
+	top: 124px;
+	left: 79px;
+	width: 109px;
+	height: 41px;
+	background:rgba(67,67,67,255);
+}
+
+
+#underscore_hotel {
+	top: 121px;
+	left: 61px;
+	width: 140px;
+	height: 86.5px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 17px;
+	text-align: center;
+	line-height: 17px;
+	color:#cdac3e;
+}
+
+
+#rectangle_4 {
+	top: 191px;
+	left: 32px;
+	width: 204px;
+	height: 31px;
+	-ms-border-radius: 2px;
+	-o-border-radius: 2px;
+	-moz-border-radius: 2px;
+	-webkit-border-radius: 2px;
+	border-radius: 2px;
+	background:rgba(102,102,102,255);
+}
+
+
+#rectangle_5 {
+	top: 241px;
+	left: 32px;
+	width: 204px;
+	height: 31px;
+	-ms-border-radius: 2px;
+	-o-border-radius: 2px;
+	-moz-border-radius: 2px;
+	-webkit-border-radius: 2px;
+	border-radius: 2px;
+	background:rgba(102,102,102,255);
+}
+
+
+#rectangle_6 {
+	top: 291px;
+	left: 90px;
+	width: 89px;
+	height: 31px;
+	-ms-border-radius: 2px;
+	-o-border-radius: 2px;
+	-moz-border-radius: 2px;
+	-webkit-border-radius: 2px;
+	border-radius: 2px;
+	background:rgba(102,102,102,255);
+}
+
+
+#employment__type {
+	top: 195px;
+	left: 75px;
+	width: 115px;
+	height: 24px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 12px;
+	text-align: center;
+	line-height: 12px;
+	color:#ffffff;
+}
+
+
+#department {
+	top: 245px;
+	left: 75px;
+	width: 115px;
+	height: 24px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 12px;
+	text-align: center;
+	line-height: 12px;
+	color:#ffffff;
+}
+
+
+#polygon_3 {
+	top: 203px;
+	left: 214px;
+	width: 11px;
+	height: 9px;
+}
+
+
+#polygon_4 {
+	top: 253px;
+	left: 214px;
+	width: 11px;
+	height: 9px;
+}
+
+
+#search {
+	top: 296px;
+	left: 108px;
+	width: 49px;
+	height: 24px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 12px;
+	text-align: center;
+	line-height: 12px;
+	color:#ffffff;
+}
+
+#top_menu {
+	top: 91px;
+	left: 24px;
+	width: 250px;
+	height: 303px;
+}
+
+#rectangle_24 {
+	opacity:0.6;
+	top: 3px;
+	left: 0px;
+	width: 250px;
+	height: 300px;
+	background:rgba(102,102,102,153);
+}
+
+
+#careers {
+	top: -11px;
+	left: 9px;
+	width: 169px;
+	height: 83px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 42px;
+	text-align: left;
+	line-height: 42px;
+	color:#ffffff;
+}
+
+
+#what_we_offer {
+	top: 64px;
+	left: 33px;
+	width: 160px;
+	height: 49px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 22px;
+	text-decoration: underline;
+	text-align: left;
+	line-height: 22px;
+	color:#ffffff;
+}
+
+
+#positions {
+	top: 205px;
+	left: 33px;
+	width: 99px;
+	height: 49px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 22px;
+	text-align: left;
+	line-height: 22px;
+	color:#ffffff;
+}
+
+
+#become_our_family {
+	top: 247px;
+	left: 33px;
+	width: 211px;
+	height: 49px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 22px;
+	text-align: left;
+	line-height: 22px;
+	color:#ffffff;
+}
+
+
+#benefits {
+	top: 105px;
+	left: 58px;
+	width: 55px;
+	height: 31px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 14px;
+	text-align: left;
+	line-height: 14px;
+	color:#dadada;
+}
+
+
+#learning___development {
+	top: 137px;
+	left: 58px;
+	width: 175px;
+	height: 31px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 14px;
+	text-align: left;
+	line-height: 14px;
+	color:#dadada;
+}
+
+
+#graduate_opportunities {
+	top: 171px;
+	left: 58px;
+	width: 168px;
+	height: 31px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 14px;
+	text-align: left;
+	line-height: 14px;
+	color:#dadada;
+}
+
+#what_we_offer_ek1 {
+	top: 569px;
+	left: 65px;
+	width: 922px;
+	height: 835px;
+}
+#benefits_ek1 {
+	top: 103px;
+	left: 17px;
+	width: 905px;
+	height: 200px;
+}
+
+#guangzhou_luxury_spa_yoga_3 {
+	top: 0px;
+	left: 0px;
+	width: 300px;
+	height: 200px;
+}
+
+
+#benefits_ek2 {
+	top: 17px;
+	left: 351px;
+	width: 466px;
+	height: 73px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 26px;
+	text-align: left;
+	line-height: 26px;
+	color:#444444;
+}
+
+
+#we_make_a_promise_to_provide_for_your_wellbeing_and_security {
+	top: 71px;
+	left: 363px;
+	width: 542px;
+	height: 62px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 16px;
+	text-align: left;
+	line-height: 16px;
+	color:#888888;
+}
+
+#more_detail {
+	top: 128px;
+	left: 735px;
+	width: 93px;
+	height: 31px;
+}
+
+#rectangle_7 {
+	top: 0px;
+	left: 0px;
+	width: 93px;
+	height: 31px;
+	-ms-border-radius: 2px;
+	-o-border-radius: 2px;
+	-moz-border-radius: 2px;
+	-webkit-border-radius: 2px;
+	border-radius: 2px;
+	-ms-box-shadow:2px 2px 5px 1px rgba(0,0,0,1.1);
+	-o-box-shadow:2px 2px 5px 1px rgba(0,0,0,1.1);
+	-webkit-box-shadow:2px 2px 5px 1px rgba(0,0,0,1.1);
+	-moz-box-shadow:2px 2px 5px 1px rgba(0,0,0,1.1);
+	box-shadow:2px 2px 5px 1px rgba(0,0,0,1.1);
+	background:rgba(207,191,108,255);
+}
+
+
+#more_detail_ek1 {
+	top: 4px;
+	left: 13px;
+	width: 75px;
+	height: 30px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 12px;
+	text-align: left;
+	line-height: 12px;
+	color:#ffffff;
+}
+
+#learning___development_ek1 {
+	top: 369px;
+	left: 17px;
+	width: 905px;
+	height: 200px;
+}
+
+#jakarta_meeting_venue_esquire_room__03 {
+	top: 0px;
+	left: 0px;
+	width: 300px;
+	height: 200px;
+}
+
+
+#learning___development_ek2 {
+	top: 17px;
+	left: 351px;
+	width: 466px;
+	height: 73px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 26px;
+	text-align: left;
+	line-height: 26px;
+	color:#444444;
+}
+
+
+#your_success_is_our_success__we_offer_a_range_of_different_development_programmes_to_help_you_grow {
+	top: 71px;
+	left: 363px;
+	width: 542px;
+	height: 100px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 16px;
+	text-align: left;
+	line-height: 16px;
+	color:#888888;
+}
+
+#more_detail_ek2 {
+	top: 145px;
+	left: 735px;
+	width: 93px;
+	height: 31px;
+}
+
+#rectangle_7_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 93px;
+	height: 31px;
+	-ms-border-radius: 2px;
+	-o-border-radius: 2px;
+	-moz-border-radius: 2px;
+	-webkit-border-radius: 2px;
+	border-radius: 2px;
+	-ms-box-shadow:2px 2px 5px 1px rgba(0,0,0,1.1);
+	-o-box-shadow:2px 2px 5px 1px rgba(0,0,0,1.1);
+	-webkit-box-shadow:2px 2px 5px 1px rgba(0,0,0,1.1);
+	-moz-box-shadow:2px 2px 5px 1px rgba(0,0,0,1.1);
+	box-shadow:2px 2px 5px 1px rgba(0,0,0,1.1);
+	background:rgba(207,191,108,255);
+}
+
+
+#more_detail_ek3 {
+	top: 4px;
+	left: 13px;
+	width: 75px;
+	height: 30px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 12px;
+	text-align: left;
+	line-height: 12px;
+	color:#ffffff;
+}
+
+#graduate_oppotunities {
+	top: 635px;
+	left: 17px;
+	width: 905px;
+	height: 200px;
+}
+
+#paris_2016_hotel_venues_meeting_people {
+	top: 0px;
+	left: 0px;
+	width: 300px;
+	height: 200px;
+}
+
+
+#graduate_opportunities_ek1 {
+	top: 17px;
+	left: 351px;
+	width: 310px;
+	height: 73px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 26px;
+	text-align: left;
+	line-height: 26px;
+	color:#444444;
+}
+
+
+#a_programme_that_sets_you_for_a_high_flying_future_through_learning_experiences_you_won_t_find_anywhere_else {
+	top: 71px;
+	left: 363px;
+	width: 542px;
+	height: 90px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 16px;
+	text-align: left;
+	line-height: 16px;
+	color:#888888;
+}
+
+#more_detail_ek4 {
+	top: 143px;
+	left: 735px;
+	width: 93px;
+	height: 31px;
+}
+
+#rectangle_7_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 93px;
+	height: 31px;
+	-ms-border-radius: 2px;
+	-o-border-radius: 2px;
+	-moz-border-radius: 2px;
+	-webkit-border-radius: 2px;
+	border-radius: 2px;
+	-ms-box-shadow:2px 2px 5px 1px rgba(0,0,0,1.1);
+	-o-box-shadow:2px 2px 5px 1px rgba(0,0,0,1.1);
+	-webkit-box-shadow:2px 2px 5px 1px rgba(0,0,0,1.1);
+	-moz-box-shadow:2px 2px 5px 1px rgba(0,0,0,1.1);
+	box-shadow:2px 2px 5px 1px rgba(0,0,0,1.1);
+	background:rgba(207,191,108,255);
+}
+
+
+#more_detail_ek5 {
+	top: 4px;
+	left: 13px;
+	width: 75px;
+	height: 30px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 12px;
+	text-align: left;
+	line-height: 12px;
+	color:#ffffff;
+}
+
+
+#what_we_offer_ek2 {
+	top: -8px;
+	left: 0px;
+	width: 248px;
+	height: 91.5px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 33px;
+	text-align: left;
+	line-height: 33px;
+	color:#b0a073;
+}
+
+#group_562 {
+	top: 0px;
+	left: 0px;
+	width: 1024px;
+	height: 78px;
+}
+
+#path_46 {
+	top: 52px;
+	left: 134px;
+	width: 18px;
+	height: 2.5px;
+}
+
+
+#path_42 {
+	top: 0px;
+	left: 0px;
+	width: 1024px;
+	height: 78px;
+}
+
+
+#logo_ek2 {
+	top: 10px;
+	left: 36px;
+	width: 63px;
+	height: 58px;
+}
+
+
+#about {
+	top: 26px;
+	left: 134px;
+	width: 99px;
+	height: 28px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 14px;
+	text-align: left;
+	line-height: 14px;
+	color:#ffffff;
+}
+
+
+#services {
+	top: 26px;
+	left: 202px;
+	width: 99px;
+	height: 40px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 14px;
+	text-align: left;
+	line-height: 14px;
+	color:#ffffff;
+}
+
+
+#events {
+	top: 26px;
+	left: 293px;
+	width: 99px;
+	height: 40px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 14px;
+	text-align: left;
+	line-height: 14px;
+	color:#ffffff;
+}
+
+
+#offers {
+	top: 26px;
+	left: 370px;
+	width: 99px;
+	height: 40px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 14px;
+	text-align: left;
+	line-height: 14px;
+	color:#ffffff;
+}
+
+
+#reviews {
+	top: 26px;
+	left: 430px;
+	width: 80px;
+	height: 40px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 14px;
+	text-align: center;
+	line-height: 14px;
+	color:#ffffff;
+}
+
+
+#gallery {
+	top: 26px;
+	left: 515px;
+	width: 72px;
+	height: 40px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 14px;
+	text-align: center;
+	line-height: 14px;
+	color:#ffffff;
+}
+
+
+#path_46_ek1 {
+	top: 50px;
+	left: 134px;
+	width: 18px;
+	height: 2.5px;
+}
+
+
+#rectangle_1154 {
+	top: 18px;
+	left: 934px;
+	width: 0.5px;
+	height: 45px;
+	background:rgba(238,238,238,255);
+}
+
+#group_524 {
+	top: 24px;
+	left: 761px;
+	width: 152px;
+	height: 33px;
+}
+
+#rectangle_1102 {
+	top: 0px;
+	left: 0px;
+	width: 152px;
+	height: 33px;
+	-ms-box-shadow:0px 3px 5px 1px rgba(0,0,0,0.41);
+	-o-box-shadow:0px 3px 5px 1px rgba(0,0,0,0.41);
+	-webkit-box-shadow:0px 3px 5px 1px rgba(0,0,0,0.41);
+	-moz-box-shadow:0px 3px 5px 1px rgba(0,0,0,0.41);
+	box-shadow:0px 3px 5px 1px rgba(0,0,0,0.41);
+	background:rgba(191,159,104,255);
+}
+
+
+#book_now {
+	top: 4px;
+	left: 38px;
+	width: 77px;
+	height: 22px;
+	font-family: Poppins;
+	font-size: 13px;
+	text-align: center;
+	color:#ffffff;
+}
+
+
+#sign_in {
+	top: 26px;
+	left: 939px;
+	width: 62px;
+	height: 33px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 14px;
+	text-align: center;
+	line-height: 14px;
+	color:#ffffff;
+}
+
+
+
+/* Add your custom CSS here */
